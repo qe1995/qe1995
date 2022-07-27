@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @qe1995
-- 👀 I’m interested in Psychology and AI 
+- 👋 Hi, I’m Gyuyi and you can call me QE! 
+- 👀 I’m interested in Psychology
 - 🌱 I’m currently learning Python and AI 
 - 📫 How to reach me ...gyuyigyuyi@gmail.com
 
