@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gyuyi and you can call me QE! 
+## 👋 Hi, I’m Gyuyi and you can call me QE! 
 - 👀 I’m interested in Psychology
 - 🌱 I’m currently learning Python and AI 
 - 📫 How to reach me ...gyuyigyuyi@gmail.com
